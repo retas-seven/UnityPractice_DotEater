@@ -1,3 +1,6 @@
-参考書
-Unity5 3Dゲーム開発講座 ユニティちゃんで作る本格アクションゲーム
+# UnityPractice_DotEater
+Unity 繝峨ャ繝医う繝ｼ繧ｿ繝ｼ
+
+蜿り�譖ｸ
+Unity5 3D繧ｲ繝ｼ繝髢狗匱隰帛ｺｧ 繝ｦ繝九ユ繧｣縺｡繧�繧薙〒菴懊ｋ譛ｬ譬ｼ繧｢繧ｯ繧ｷ繝ｧ繝ｳ繧ｲ繝ｼ繝
 http://www.shoeisha.co.jp/book/detail/9784798138220
