@@ -8,10 +8,12 @@ public class Player : MonoBehaviour {
     public float rotationSpeed = 360f;
 
     CharacterController characterController;
+    Animator animator;
 
     // Use this for initialization
     void Start () {
         characterController = GetComponent<CharacterController>();
+        animator = GetComponentInChildren<Animator>();
 	}
 	
 	// Update is called once per frame
@@ -27,5 +29,6 @@ public class Player : MonoBehaviour {
             transform.LookAt(transform.position + forward);
         }
         characterController.Move(direction * moveSpeed * Time.deltaTime);
+        animator.SetFloat("Speed", characterController.velocity.magnitude);
 	}
 }
