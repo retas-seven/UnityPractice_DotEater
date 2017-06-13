@@ -31,4 +31,9 @@ public class Player : MonoBehaviour {
         characterController.Move(direction * moveSpeed * Time.deltaTime);
         animator.SetFloat("Speed", characterController.velocity.magnitude);
 	}
+
+    void OnTriggerEnter(Collider other)
+    {
+        Destroy(other.gameObject);
+    }
 }
