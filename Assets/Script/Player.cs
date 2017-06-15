@@ -33,7 +33,8 @@ public class Player : MonoBehaviour {
 
         if (GameObject.FindGameObjectsWithTag("Dot").Length == 0)
         {
-            Application.LoadLevel(Application.loadedLevel);
+            // Application.LoadLevel(Application.loadedLevel);
+            Application.LoadLevel("Win");
         }
 	}
 
