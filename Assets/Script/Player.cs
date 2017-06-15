@@ -30,6 +30,11 @@ public class Player : MonoBehaviour {
         }
         characterController.Move(direction * moveSpeed * Time.deltaTime);
         animator.SetFloat("Speed", characterController.velocity.magnitude);
+
+        if (GameObject.FindGameObjectsWithTag("Dot").Length == 0)
+        {
+            Application.LoadLevel(Application.loadedLevel);
+        }
 	}
 
     void OnTriggerEnter(Collider other)
