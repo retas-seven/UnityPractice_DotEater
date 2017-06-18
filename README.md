@@ -7,3 +7,5 @@ Unity5 3Dゲーム開発講座 ユニティちゃんで作る本格アクショ�
 
 http://www.shoeisha.co.jp/book/detail/9784798138220
 
+
+build\doteater.exeをダブルクリックで実行可能。
