@@ -566,9 +566,9 @@ MonoBehaviour:
     height: 548
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 602d0000
-    m_LastClickedID: 11616
-    m_ExpandedIDs: 72eeffffe6fbffff0000000008340000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 5aeeffff10efffffcaf2ffffd2f2ffffb6f5ffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -650,7 +650,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.48030272, y: -0.0015717163, z: 0.0008715445, w: -0.877101}
     speed: 2
-    m_Value: {x: -0.48030272, y: -0.0015717163, z: 0.0008715445, w: -0.877101}
+    m_Value: {x: -0.48030272, y: -0.0015717163, z: 0.0008715445, w: -0.87710094}
   m_Size:
     m_Target: 15.500263
     speed: 2
