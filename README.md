@@ -1,8 +1,4 @@
-# UnityPractice_DotEater
-
-- - -
-
-## Unity ドットイーター
+# Unity ドットイーター
 
 * 参考書
 
